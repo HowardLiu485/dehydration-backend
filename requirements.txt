@@ -1,0 +1,5 @@
+flask
+requests
+pickle-mixin
+scikit-learn
+pandas
